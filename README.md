@@ -4,14 +4,13 @@ Here are all my recommended books in various genres, You can take a look using t
 
 🔗Live Link🔗 [Good Books Recommendation App](https://good-books-recommendation.netlify.app/)
 
-> Note: This project was build by me from scratch. It is markNine project for the admission process in neogcamp by Tanay Pratab more info at: [neog.camp](https://neog.camp)
+> Note: This project was build by me from scratch. It is markNine project for the admission process in neogcamp by Tanay Pratap, more info at: [neog.camp](https://neog.camp)
 
 # Stack
 
 - Language - HTML, CSS, JavaScript
 - Library - ReactJS
 - Builder - Vite
-- API - emoji-api.com
 
 # Can I contribute?
 
